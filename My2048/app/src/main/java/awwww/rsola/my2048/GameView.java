@@ -9,7 +9,6 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.GridLayout;
-import android.widget.LinearLayout;
 
 import java.util.ArrayList;
 import java.util.List;
